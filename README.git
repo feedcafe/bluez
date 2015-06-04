@@ -1,0 +1,2 @@
+git pull git://git.kernel.org/pub/scm/bluetooth/bluez.git master
+git push
